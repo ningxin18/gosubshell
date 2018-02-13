@@ -1,0 +1,2 @@
+# gosubshell
+A go subshell
